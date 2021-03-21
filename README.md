@@ -1,6 +1,7 @@
-# Instagram-DEMO
+# Instagramodoki2
 
 Instagramを模して作成したiPhoneアプリ
+ストーリー機能追加
 
 言語：Swift
 
