@@ -3,7 +3,8 @@
   <img src="https://user-images.githubusercontent.com/58155849/112406191-0b870000-8d57-11eb-968d-f8dafd3e7dc3.png" width="300" height="auto"> 
 </div><br>
 
-#Instamodoki(インスタモドキ)
+# Instamodoki(インスタモドキ)
+
 Instagramを模して作成したiPhoneアプリ
 開発期間：約３ヶ月
 
