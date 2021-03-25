@@ -1,4 +1,5 @@
-# Instagramodoki2
+# Instagramodoki
+
 
 Instagramを模して作成したiPhoneアプリ
 ストーリー機能追加
