@@ -1,5 +1,5 @@
 # Instagramodoki
-
+![instamodoki_icon](https://user-images.githubusercontent.com/58155849/112405156-12ad0e80-8d55-11eb-9d47-39fd233eac0e.png)
 
 Instagramを模して作成したiPhoneアプリ
 ストーリー機能追加
